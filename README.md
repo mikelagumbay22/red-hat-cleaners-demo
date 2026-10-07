@@ -1,1 +1,1 @@
-# red-hat-cleaners-demo
+# Red Hat Cleaners: demo concept site. An unofficial demo website concept, not affiliated with or approved by Red Hat Cleaners. Static HTML, served by GitHub Pages at https://mikelagumbay22.github.io/red-hat-cleaners-demo/
